@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behaviour | Python + SQL + Power BI
+# 🛍️ Customer Revenue & Segmentation Insights | Python + SQL + Power BI
 
 An end-to-end data analytics project analyzing 3,900+ retail transactions to uncover customer behavior insights, revenue trends, and product performance using Python, PostgreSQL, and Power BI.
 
