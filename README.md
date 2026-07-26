@@ -209,7 +209,7 @@ The dashboard streamlines reporting and enables faster data-driven decision-maki
 
 ## 📷 Dashboard Preview  
 
-![Customer Behaviour Dashboard](https://github.com/AasthaAhirkar/Customer_Shopping_Behavior/blob/main/Dashboard.png)
+![Customer Behaviour Dashboard](https://github.com/AasthaAhirkar/Customer_Revenue-Segmentation_Insights/blob/main/dashboard.png)
 
 ---
 
